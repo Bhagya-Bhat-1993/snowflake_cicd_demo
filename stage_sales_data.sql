@@ -1,0 +1,2 @@
+CREATE STAGE my_int_stage_sales
+  ENCRYPTION = (TYPE = 'SNOWFLAKE_SSE');
